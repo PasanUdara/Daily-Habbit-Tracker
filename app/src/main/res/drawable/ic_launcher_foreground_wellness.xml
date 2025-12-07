@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Wellness Heart with Checkmark -->
+    <group
+        android:translateX="54"
+        android:translateY="54">
+        
+        <!-- Heart Shape -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M0,18 L-12,-6 Q-16,-10 -16,-16 Q-16,-22 -12,-26 Q-8,-30 -2,-26 L0,-24 L2,-26 Q8,-30 12,-26 Q16,-22 16,-16 Q16,-10 12,-6 Z" />
+        
+        <!-- Checkmark inside -->
+        <path
+            android:strokeColor="#00C853"
+            android:strokeWidth="2.5"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:pathData="M-6,-4 L-2,0 L6,-8" />
+        
+        <!-- Water Drop Accent -->
+        <path
+            android:fillColor="#1976D2"
+            android:pathData="M10,-18 Q10,-22 12,-24 Q14,-22 14,-18 Q14,-14 12,-12 Q10,-14 10,-18 Z" />
+        
+        <!-- Smile/Mood Accent -->
+        <path
+            android:fillColor="#FFD700"
+            android:pathData="M-10,-22 m-2,0 a2,2 0,1 1,4 0a2,2 0,1 1,-4 0 M10,-22 m-2,0 a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+        
+        <!-- Activity Ring -->
+        <path
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="2"
+            android:fillColor="#00000000"
+            android:strokeAlpha="0.3"
+            android:pathData="M0,0m-24,0a24,24 0,1 1,48 0a24,24 0,1 1,-48 0" />
+            
+    </group>
+    
+</vector>

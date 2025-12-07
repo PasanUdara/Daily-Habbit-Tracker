@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Modern Wellness App Color Palette -->
+    <!-- Primary Colors - Vibrant Blue-Purple Gradient -->
+    <color name="primary_blue">#6C63FF</color>
+    <color name="primary_blue_dark">#5848E8</color>
+    <color name="primary_blue_light">#A29DFF</color>
+    <color name="primary_purple">#9D50BB</color>
+    
+    <!-- Accent Colors - Fresh and Vibrant -->
+    <color name="accent_green">#00E676</color>
+    <color name="accent_green_light">#69F0AE</color>
+    <color name="accent_green_dark">#00C853</color>
+    <color name="accent_orange">#FF6B6B</color>
+    <color name="accent_coral">#FF8B94</color>
+    <color name="accent_purple">#B565D8</color>
+    <color name="accent_purple_light">#E8D5FF</color>
+    <color name="accent_pink">#FF6B9D</color>
+    <color name="accent_teal">#26C6DA</color>
+    <color name="accent_yellow">#FFD93D</color>
+    <color name="accent_sky">#6BCF7F</color>
+    
+    <!-- Background Colors - Soft and Clean -->
+    <color name="background_light">#F5F7FA</color>
+    <color name="background_card">#FFFFFF</color>
+    <color name="background_gradient_start">#6C63FF</color>
+    <color name="background_gradient_end">#9D50BB</color>
+    <color name="background_dark">#2D3748</color>
+    <color name="background_soft">#EDF2F7</color>
+    
+    <!-- Text Colors - High Contrast -->
+    <color name="text_primary">#1A202C</color>
+    <color name="text_secondary">#718096</color>
+    <color name="text_hint">#A0AEC0</color>
+    <color name="text_white">#FFFFFF</color>
+    
+    <!-- Status Colors - Clear and Distinct -->
+    <color name="success_green">#48BB78</color>
+    <color name="warning_orange">#F6AD55</color>
+    <color name="error_red">#FC8181</color>
+    <color name="info_blue">#63B3ED</color>
+    
+    <!-- Mood Colors - Expressive and Vibrant -->
+    <color name="mood_happy">#FFD93D</color>
+    <color name="mood_happy_bg">#FFF9E6</color>
+    <color name="mood_excited">#FF6B9D</color>
+    <color name="mood_excited_bg">#FFE6EE</color>
+    <color name="mood_neutral">#A0AEC0</color>
+    <color name="mood_neutral_bg">#F7FAFC</color>
+    <color name="mood_sad">#63B3ED</color>
+    <color name="mood_sad_bg">#E6F6FF</color>
+    <color name="mood_angry">#FC8181</color>
+    <color name="mood_angry_bg">#FFF5F5</color>
+    
+    <!-- Card Shadow and Overlay -->
+    <color name="shadow_light">#1A000000</color>
+    <color name="overlay_dark">#80000000</color>
+    
+    <!-- Progress and Interactive Colors -->
+    <color name="progress_track">#E2E8F0</color>
+    <color name="progress_active">#6C63FF</color>
+    <color name="ripple_color">#336C63FF</color>
+    
+    <!-- Launcher Icon Background -->
+    <color name="ic_launcher_background_wellness">#6C63FF</color>
+</resources>
