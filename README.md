@@ -281,7 +281,7 @@ The Wellness Tracker features a modern, vibrant design with an attractive color 
 ---
 
 **Version**: 1.0.0  
-**Last Updated**: December 2024  
+**Last Updated**: December 2025  
 **Developer**: Wellness Tracker Team
 
 *Start your wellness journey today and build healthier habits that last a lifetime!* 🌟
